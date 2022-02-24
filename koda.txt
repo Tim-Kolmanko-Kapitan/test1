@@ -1,0 +1,6 @@
+
+if (ure_je_konec){
+	:)
+else
+	:(
+}
